@@ -17,6 +17,10 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
+        System.out.println("---------Second Commit----------");
+        System.out.println("---------Second Commit----------");
+
+
         String server="http://itsovy.sk:5000/data";
 
         URL url=new URL(server);
